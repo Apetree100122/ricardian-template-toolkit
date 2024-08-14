@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
-let CLI = require('../dist/bin/rc.js')
-
-CLI.run()
+let
+  CLI = require
+('../dist/bin/rc.js') CLI.run()
