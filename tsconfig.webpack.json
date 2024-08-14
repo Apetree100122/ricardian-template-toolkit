@@ -1,11 +1,7 @@
 {
+	
 	"extends": "./tsconfig",
-	"compilerOptions": {
-		"sourceMap": true
-	},
-	"exclude": [
-    "**/*.test.ts",
-    "src/testfixtures",
-		"node_modules"
-	]
+	"compilerOptions": {"sourceMap": true},
+	"exclude":["**/*.test.ts", "src/testfixtures",
+		"node_modules"]
 }
