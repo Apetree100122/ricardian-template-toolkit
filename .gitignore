@@ -1,12 +1,6 @@
-*.log
-npm-debug.log*
+*.log  npm-debug.log*
 coverage
-lib
-node_modules
-.npm
-.idea
-.DS_Store
-.vscode
+lib  node_modules v.npm  .idea  .DS_Store
+.vscode  dist
 dist
-dist-esm
-_bundles
+-esm_bundles
